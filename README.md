@@ -26,19 +26,19 @@ This is a open source pattern printer module for the python 3 that has pre-defin
 
 The pattern printer is updated to add new patterns as of now we have the following patterns included in the package:
 
-| Pattern                                  | code                                |
-| ---------------------------------------- | ----------------------------------- |
-| Square                                   | patprint.sqr(patternchar, length)   |
-| Right angle triangle                     | patprint.right(patternchar, length) |
-| Right angle triangle (Flipped)           | rightflp (patternchar, length)      |
-| Right angle triangle (Inverted)          | rightinv (patternchar, length)      |
-| Right angle triangle (Inverted, Flipped) | rightinvflp (patternchar, length)   |
-| Pyramid                                  | pyramid (patternchar, length)       |
-| Pyramid (Inverted)                       | pyramidinv (patternchar, length)    |
-| Diamond                                  | diamond (patternchar, length)       |
-| Hourglass                                | hrglass (patternchar, length)       |
-| Wings                                    | wings (patternchar, length)         |
-| Xmas Tree                                | xmastree (patternchar, length)      |
-| Heart                                    | heart (patternchar, length)         |
+| Pattern                                  | code                                       |
+| ---------------------------------------- | ------------------------------------------ |
+| Square                                   | patprint.sqr(patternchar, length)          |
+| Right angle triangle                     | patprint.right(patternchar, length)        |
+| Right angle triangle (Flipped)           | patprint.rightflp (patternchar, length)    |
+| Right angle triangle (Inverted)          | patprint.rightinv (patternchar, length)    |
+| Right angle triangle (Inverted, Flipped) | patprint.rightinvflp (patternchar, length) |
+| Pyramid                                  | patprint.pyramid (patternchar, length)     |
+| Pyramid (Inverted)                       | patprint.pyramidinv (patternchar, length)  |
+| Diamond                                  | patprint.diamond (patternchar, length)     |
+| Hourglass                                | patprint.hrglass (patternchar, length)     |
+| Wings                                    | patprint.wings (patternchar, length)       |
+| Xmas Tree                                | patprint.xmastree (patternchar, length)    |
+| Heart                                    | patprint.heart (patternchar, length)       |
 
 ---
